@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D9B8E461D45C5CB00A283E8 /* FactMdoel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D9B8E451D45C5CB00A283E8 /* FactMdoel.swift */; };
 		B78DCDC21D3F329D003CC6AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78DCDC11D3F329D003CC6AD /* AppDelegate.swift */; };
 		B78DCDC41D3F329D003CC6AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78DCDC31D3F329D003CC6AD /* ViewController.swift */; };
 		B78DCDC71D3F329D003CC6AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B78DCDC51D3F329D003CC6AD /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D9B8E451D45C5CB00A283E8 /* FactMdoel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactMdoel.swift; sourceTree = "<group>"; };
 		B78DCDBE1D3F329D003CC6AD /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B78DCDC11D3F329D003CC6AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B78DCDC31D3F329D003CC6AD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				B78DCDC11D3F329D003CC6AD /* AppDelegate.swift */,
 				B78DCDC31D3F329D003CC6AD /* ViewController.swift */,
+				3D9B8E451D45C5CB00A283E8 /* FactMdoel.swift */,
 				B78DCDC51D3F329D003CC6AD /* Main.storyboard */,
 				B78DCDC81D3F329D003CC6AD /* Assets.xcassets */,
 				B78DCDCA1D3F329D003CC6AD /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				B78DCDC41D3F329D003CC6AD /* ViewController.swift in Sources */,
 				B78DCDC21D3F329D003CC6AD /* AppDelegate.swift in Sources */,
+				3D9B8E461D45C5CB00A283E8 /* FactMdoel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +290,7 @@
 				B78DCDD21D3F329D003CC6AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
